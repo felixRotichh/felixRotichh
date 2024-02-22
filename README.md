@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @felixRotichh
-- 👀 I’m interested in Machine learning, data science, cybersecurity and Web dev
+- 👋 Hi, I’m Felix Rotich
+- 👀 Machine learning, data science, cybersecurity 
 - 🌱 I’m currently learning Web Dev
-- 💞
+- 💞 I listen to podcasts on cybersecurity 
 - 📫 How to reach me Felixprotich@gmail.com
 
 <!---
