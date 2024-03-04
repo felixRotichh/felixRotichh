@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Felix Rotich
 - 👀 Machine learning, data science, cybersecurity 
-- 🌱 I’m currently learning Web Dev
-- 💞 I listen to podcasts on cybersecurity 
 - 📫 How to reach me Felixprotich@gmail.com
 
 <!---
